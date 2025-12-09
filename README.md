@@ -118,17 +118,28 @@ Your GitHub repo can be organized like this:
 README.md
 sql/
    └── Music_Store_Project.sql
+   
 data/
+
    ├── album.csv
+   
    ├── artist.csv
+   
    ├── customer.csv
+   
    ├── employee.csv
+   
    ├── genre.csv
+   
    ├── invoice.csv
+   
    ├── invoice_line.csv
+   
    └── track.csv
+   
 docs/
-   └── Project_Notes.md (optional)
+
+   └── Project_Notes.md 
 
 
 📌 How to Use
